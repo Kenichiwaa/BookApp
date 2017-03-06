@@ -20,6 +20,6 @@ run 'node server.js'
 
 ## Authors
 
-* **Kenichi Sugai** - *Front End* - [Kenichiwaa](https://github.com/Kenichiwaa)
 * **Richard Buccat** - *Front End* -
-* **Nam Kim** - *Firebase* -
+* **Nam Kim** - *Back End* -
+* **Kenichi Sugai** - *Front End* - [Kenichiwaa](https://github.com/Kenichiwaa)
