@@ -20,4 +20,6 @@ run 'node server.js'
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Kenichi Sugai** - *Front End* - [Kenichiwaa](https://github.com/Kenichiwaa)
+* **Richard Buccat** - *Front End* -
+* **Nam Kim** - *Firebase* -
